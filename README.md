@@ -6,8 +6,16 @@
 
 :woman_student: I am  QA Engineer
 
+* Experience in manual testing - 2 years
+* Experience in automation - 6 months
+
 :woman_technologist: Here you can find my projects with autotets 
 
+:mailbox_with_mail: murugka@yandex.ru
+
+:iphone: Contact me in Telegram @murugka31
+
+:electron: Github page https://github.com/murugka31
 
 <h3 align="left">Languages and Tools that I used:</h3>
 
