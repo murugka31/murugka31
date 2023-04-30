@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=Knewave&size=40&center=true&vCenter=true&lines=++Hello+everyone!;+Welcome+to+my+page!!!+++">
 </p>
 
+## :girl: Some words about myself
+
 :heart: My name is Elena Murugova
 
 :woman_student: I am  QA Engineer
@@ -9,7 +11,7 @@
 * Experience in manual testing - 2 years
 * Experience in automation - 6 months
 
-:woman_technologist: Here you can find my projects with autotets 
+:woman_technologist: Here you can find my projects with autotests 
 
 :mailbox_with_mail: murugka@yandex.ru
 
