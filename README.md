@@ -17,11 +17,16 @@
 
 :electron: Github page https://github.com/murugka31
 
-:mortar_board: My last projects:
-* https://github.com/murugka31/ZvukSiteTests - UI автоматизация для интернет-сервиса [ZVUK.com](https://zvuk.com/)
-* https://github.com/murugka31/PetStoreTests - Автоматизация API тестов на основе  [Swagger Petstore](https://https://petstore.swagger.io//)
-* https://github.com/murugka31/WikipediaAppTests - Автоматизация тестов для мобильного приложения [Wikipedia, the free encyclopedia](https://https://ru.wikipedia.org/)
+# :mortar_board: My last projects:
 
+<a href="https://github.com/murugka31/ZvukSiteTests"> <img src="https://user-images.githubusercontent.com/118747260/214104170-3a41b016-8562-4707-b03f-a80fcbb58740.jpg" width=200 heigth=80> </a>
+UI автоматизация для интернет-сервиса [ZVUK.com](https://zvuk.com/)
+
+<a href="https://github.com/murugka31/WikipediaAppTests"> <img src="https://user-images.githubusercontent.com/118747260/235356820-cac5f8d0-b855-4d5c-85db-b5f1d5bbe814.png" width=200 heigth=80> </a>
+UI Автоматизация тестов для мобильного приложения [Wikipedia, the free encyclopedia](https://https://ru.wikipedia.org/)
+
+<a href="https://github.com/murugka31/PetStoreTests"> <img src="https://user-images.githubusercontent.com/118747260/233849913-de578971-014f-468e-bc3b-568fab8eae84.png" width=200 heigth=80> </a>
+Автоматизация API тестов на основе  [Swagger Petstore](https://https://petstore.swagger.io//)
 
 <h3 align="left">Languages and Tools that I used:</h3>
 
