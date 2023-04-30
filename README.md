@@ -17,6 +17,12 @@
 
 :electron: Github page https://github.com/murugka31
 
+:mortar_board: My last projects:
+* https://github.com/murugka31/ZvukSiteTests - UI автоматизация для интернет-сервиса [ZVUK.com](https://zvuk.com/)
+* https://github.com/murugka31/PetStoreTests - Автоматизация API тестов на основе  [Swagger Petstore](https://https://petstore.swagger.io//)
+* https://github.com/murugka31/WikipediaAppTests - Автоматизация тестов для мобильного приложения [Wikipedia, the free encyclopedia](https://https://ru.wikipedia.org/)
+
+
 <h3 align="left">Languages and Tools that I used:</h3>
 
 | IntelliJ IDEA | Java | Gradle | Junit5 | Selenide |
