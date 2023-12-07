@@ -19,7 +19,7 @@
 
 :electron: Github page https://github.com/murugka31
 
-## :mortar_board:My last projects:
+## My last projects:
 
 <a href="https://github.com/murugka31/ZvukSiteTests"> <img src="https://user-images.githubusercontent.com/118747260/214104170-3a41b016-8562-4707-b03f-a80fcbb58740.jpg" width=200 heigth=80> </a>
 ## UI автоматизация для интернет-сервиса [ZVUK.com](https://zvuk.com/)
